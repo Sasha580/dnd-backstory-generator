@@ -31,8 +31,8 @@ and focus on practical text generation for creative writing support.
 
 1. Clone the repository:
    ```bash
-   git 
-   cd 
+   git clone https://github.com/Sasha580/dnd-backstory-generator.git
+   cd dnd-backstory-generator
    ```
 
 2. Install necessary dependencies:
