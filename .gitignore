@@ -11,4 +11,7 @@ env/
 *.ipynb_export.json
 
 .DS_Store
+
 *.pt
+
+lama3.log*
