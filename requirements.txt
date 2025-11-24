@@ -1,0 +1,6 @@
+torch
+datasets
+transformers
+langchain-core
+jupyter
+llama3_package
